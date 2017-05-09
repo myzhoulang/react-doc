@@ -8,7 +8,7 @@ react是非常灵活的，可以应用在各种类型的项目中。你可以用
 
 当然了，你可以使用你自己的编辑器，并下载这个文件，随后编辑它，然后用你本地系统的浏览器去浏览，它将会产生一种缓慢的响应信息，所以不要在你的实际生产环境中这样使用！
 
-###　代码
+### 代码
 
 ``` jsx
 	ReactDOM.render(
@@ -58,7 +58,7 @@ react是非常灵活的，可以应用在各种类型的项目中。你可以用
 * **一个编译器**，如Babel，它能让你使用最新的javascript的新特性！最后编译成能在老浏览器中使用的代码！
 
 
-###　Installing React
+### Installing React
 
 我们推荐使用Yarn或者npm来管理前端各种依赖库，如果你对这方面还不是很熟悉的话，那么[Yarn documentation](https://yarnpkg.com/en/docs/getting-started)是一个你很好的了解这个工具的地方！
 
